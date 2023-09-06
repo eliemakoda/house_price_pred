@@ -1,0 +1,2 @@
+Ici est le projet de prediction du prix d'une maison se basant sur les information précédentes / historisque
+here is the house's price prediction model base on last data collected. available for kaggle competition here we are using the regressing model to make prediction sklearn
